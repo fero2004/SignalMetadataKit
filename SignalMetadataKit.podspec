@@ -39,7 +39,6 @@ A Swift & Objective-C library used by other Signal libraries.
 
   s.resources = ["SignalMetadataKit/Resources/Certificates/*"]
 
-  s.dependency 'CocoaLumberjack'
   s.dependency 'Curve25519Kit'
   s.dependency 'SignalClient'
   s.dependency 'SignalCoreKit'
